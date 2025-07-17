@@ -13,6 +13,7 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Metasploitable 2](https://img.shields.io/badge/Metasploitable%202-ff5555?style=for-the-badge&logo=exploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
 
 ## 🧪 Interests
 - Ethical Hacking & Red Teaming
