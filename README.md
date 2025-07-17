@@ -22,7 +22,7 @@
 - Capture The Flag (CTF) practice
         
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/Enoch kanabia)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Enochkanabia)
 - 💻 [GitHub](https://github.com/Kojokanabs)
 - 📧 Email: enochkanabia@gmail.com
 - 📍 Ghana
