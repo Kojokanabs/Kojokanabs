@@ -41,7 +41,7 @@ Application Security practitioner with hands-on experience in web application an
 ---
 
 ### 🔗 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/Enochkanabia)
+- 💼 [LinkedIn](https://www.linkedin.com/in/enoch-kanabia-3a94ab1a5/)
 - 📍 Accra, Ghana
 - 📧 enochkanabia@gmail.com
 
