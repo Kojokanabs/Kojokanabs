@@ -1,31 +1,48 @@
-# 👋 Hi there, I'm Enoch Kanabia Ali
+## Hi, I'm Enoch Kanabia Ali 👋
 
-🎓 **Sociology & Economics graduate** exploring the world of **Cybersecurity**, with a focus on **Penetration Testing** and hands-on learning.
+Application Security practitioner with hands-on experience in web application and API penetration testing, SAST analysis, and vulnerability documentation. Background in investigation and compliance — transitioning fully into AppSec.
 
-🛠️ Currently building skills through:
-- 🔓 DVWA (Damn Vulnerable Web App)
-- 🧱 Metasploitable 2
-- 🧠 Hack The Box challenges
-- 💻 Home lab setups on Kali Linux
+---
 
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Metasploitable 2](https://img.shields.io/badge/Metasploitable%202-ff5555?style=for-the-badge&logo=exploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
-![DVWA](https://img.shields.io/badge/DVWA-Gray?style=for-the-badge)
+### 🔐 What I focus on
+- Web & API security testing — OWASP Top 10, Burp Suite, PortSwigger Web Security Academy
+- GraphQL security — BOLA, broken access control, excessive data exposure
+- SAST & secure code review — Semgrep, SonarQube
+- Vulnerability reporting — CVSS scoring, root cause analysis, remediation guidance aligned with OWASP ASVS
 
-## 🧪 Interests
-- Ethical Hacking & Red Teaming
-- Vulnerability Discovery & Exploitation
-- Cybersecurity Research
-- Capture The Flag (CTF) practice
-        
-## 🔗 Connect with Me
+---
+
+### 🛠 Tools & Skills
+
+| Category | Tools / Concepts |
+|---|---|
+| Testing | Burp Suite, Kali Linux, DVWA, Metasploitable 2, Hack The Box |
+| SAST | Semgrep, SonarQube |
+| Standards | OWASP Top 10, OWASP ASVS, OAuth 2.0, JWT, REST, GraphQL |
+| Languages | Python, Bash |
+| Platforms | Linux (Ubuntu), Git, GitHub |
+
+---
+
+### 📌 Featured Projects
+
+- 🔎 **[GraphQL BOLA Findings](https://github.com/Kojokanabs)** — 3 high-severity broken object-level authorization vulnerabilities with CVSS ratings, PoC steps, and remediation guidance
+- 🧪 **[OWASP Lab Write-ups](https://github.com/Kojokanabs)** — Structured findings from 20+ PortSwigger Web Security Academy labs covering SQLi, XSS, IDOR, CSRF, and broken authentication
+- 🔬 **[SAST Code Review Reports](https://github.com/Kojokanabs)** — Semgrep & SonarQube analysis on vulnerable codebases with developer-facing fix guidance
+- 📓 **[AppSec Notes](https://github.com/Kojokanabs)** — Personal knowledge base covering OWASP Top 10, JWT attack vectors, ASVS reference, and testing checklists
+
+---
+
+### 📈 Currently
+- Completing PortSwigger Web Security Academy — OWASP Top 10 track
+- Practising on Hack The Box — Starting Point & Web challenges
+- Google Cybersecurity Certificate ✅ | Python Automation Certificate ✅
+
+---
+
+### 🔗 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/Enochkanabia)
-- 💻 [GitHub](https://github.com/Kojokanabs)
-- 📧 Email: enochkanabia@gmail.com
-- 📍 Ghana
+- 📍 Accra, Ghana
+- 📧 enochkanabia@gmail.com
 
-> “Learning by doing — every exploit teaches me something new.”
+> "The best security report is one a developer can actually act on."
