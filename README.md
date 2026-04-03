@@ -1,4 +1,4 @@
-## Hi, I'm Enoch Kanabia Ali 👋
+## Hi, I'm Enoch K. Ali 👋
 
 Application Security practitioner with hands-on experience in web application and API penetration testing, SAST analysis, and vulnerability documentation. Background in investigation and compliance — transitioning fully into AppSec.
 
